@@ -1,0 +1,21 @@
+{
+  "name": "sellAngular",
+  "authors": [
+    "zhangboyang <2740824389@qq.com>"
+  ],
+  "description": "this is webapp",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.5.8"
+  }
+}
